@@ -18,7 +18,7 @@ print(100+200)
 # 3.string
 # 4.complex
 
-isinstance(print, int)
+print(isinstance(print, int))
 
 a = 255
 print(hex(id(a)))
